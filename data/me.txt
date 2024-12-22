@@ -1,0 +1,46 @@
+My name is Manish Saw.
+I am from Mumbai.
+I love to learn diverse things and passionate about building things.
+Righnow i'm building Bladex AI . Here is everything about Bladex AI
+Only connect
+
+
+In India, 90% of business communication is done via WhatsApp.
+
+
+————
+
+- one-stop AI support messaging platform connected with WhatsApp business API and AI agents 
+- Broadcast business in India is performing well. WhatsApp Broadcast platform is a platform for managing WhatsApp message queries, sending bulk messages, and appointing multiple staff to handle those messages.
+- I want to integrate AI agents instead of staff all the messages will be replied to by specific AI agents.
+- AI agents can be customised for each campaign or task, such as when someone needs help navigating the app or wants to order something.
+- connected with the SIP Trunking call system.
+- If the user says, “Why don’t you call me?” after this, our call Integration system will call that person and save the user’s details in their database so that if the person chats again, that data will be retrieved and used for further communication.
+- Just generate a WhatsApp QR or link, start chatting, and AI agents will handle everything.
+- Let’s say you circulated a form and you have, but you want to verify or just chat with them just link that to our platform, and everything will taken care of by AI agents.
+- It can be integrated with any data (Google Sheets, Excel Salesforce CRM or CSV), and then that will be saved in the platform database and make a specific database for each person so that everything can be tracked. 
+
+
+
+
+
+
+Market Target
+——
+
+
+- SMBs
+- Consultancy companies
+- Real estate
+- Hospitality
+- Small Tech Startups
+
+
+
+Learned: Remember that my favorite color is blue
+
+Learned: Remember that my favorite color is blue
+Learned: Remember that my favorite color is blue
+Learned: Remember that my favorite color is blue
+Learned: What do know about Manish?
+Learned: ok My Role Model is Elon
