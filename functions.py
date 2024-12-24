@@ -27,17 +27,23 @@ LLM = AzureOpenAI(
 )
 
 
-DATA_FILE = "data/me.txt"
+
+DATA_FILE = ["data/me.txt", "data/job_vacancy.txt"]
 
 def load_data():
-    if os.path.exists(DATA_FILE):
-        with open(DATA_FILE, "r") as file:
-            return file.read()
-    return ""
+    data = []
+    for file_path in DATA_FILE:
+        if os.path.exists(file_path):
+            with open(file_path, "r") as file:
+                data.append(file.read())
+        else:
+            print(f"Warning: {file_path} does not exist.")
+    return "\n".join(data)  # Combine all file contents into a single string
 
 def save_data(content):
     with open(DATA_FILE, "a") as file:
         file.write(content + "\n")
+
 
 def knowledge_agent():
     def knowledge_retriever(query):
@@ -115,6 +121,11 @@ def draft_message(user_input: str, history: List[dict] = []) -> str:
 # Test the draft_message function
 def test_draft_message():
     print("Starting tests for draft_message function...")
+
+    input0 = "Is there any job vacancy in Mumbai based on my skills?"
+    print(f"\nTest 0 - Simple question: '{input0}'")
+    response0 = draft_message(input0)
+    print(f"Response: {response0}")
 
     # Test case 1: Simple question (can_be_answered)
     input1 = "What is your name?"

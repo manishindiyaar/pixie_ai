@@ -1,0 +1,42 @@
+Pixie Job
+Pixie Job is a Job Portal. It is a platform where job seekers can apply for jobs and employers can post jobs.
+Its specially curated for job seekers and employers.
+It is a platform where job seekers can apply for jobs and employers can post jobs.
+
+Pixie Job Listed few Vacancies all type of jobs.
+
+IT/CS/Tech jobs
+
+1. Junior Web Developer (location: Mumbai, salary: 3-4 LPA, experience: 1-2 years)
+2. Senior Web Developer (location: Mumbai, salary: 4-5 LPA, experience: 3-5 years)
+3. Junior Android Developer (location: Mumbai, salary: 3-4 LPA, experience: 1-2 years)
+4. Senior Android Developer (location: Mumbai, salary: 4-5 LPA, experience: 3-5 years)
+5. Junior iOS Developer (location: Mumbai, salary: 3-4 LPA, experience: 1-2 years)
+6. Senior iOS Developer (location: Mumbai, salary: 4-5 LPA, experience: 3-5 years)
+7. Junior Full Stack Developer (location: Mumbai, salary: 3-4 LPA, experience: 1-2 years)
+8. Senior Full Stack Developer (location: Mumbai, salary: 4-5 LPA, experience: 3-5 years)
+9. Junior Machine Learning Engineer (location: Mumbai, salary: 3-4 LPA, experience: 1-2 years)
+10. Senior Machine Learning Engineer (location: Mumbai, salary: 4-5 LPA, experience: 3-5 years) 
+11. GenAI Engineer (location: Mumbai, salary: 3-4 LPA, experience: 1-2 years)
+12. Prompt Engineer (location: Mumbai, salary: 3-4 LPA, experience: 1-2 years)
+13. Data Scientist (location: Mumbai, salary: 3-4 LPA, experience: 1-2 years)
+14. Data Analyst (location: Mumbai, salary: 3-4 LPA, experience: 1-2 years)
+15. Data Engineer (location: Mumbai, salary: 3-4 LPA, experience: 1-2 years)
+
+
+General Casual jobs
+
+1. Customer Service Representative (location: Mumbai, salary: 2-3 LPA, experience: 1-2 years)
+2. Telecaller (location: Gurgaon, salary: 2-3 LPA, experience: 1-2 years)
+3. Typist (location: Mumbai, salary: 2-3 LPA, experience: 1-2 years)
+4. Personal Assistant (location: Vile parle (Mumbai), salary: 2-3 LPA, experience: 1-2 years)
+5. Cabine Attendant (location: Andheri (Mumbai), salary: 2-3 LPA, experience: 1-2 years)
+
+
+Hospitality jobs
+
+1. Waiter (location: Mumbai, salary: 2-3 LPA, experience: 1-2 years)
+2. Chef (location: Mumbai, salary: 2-3 LPA, experience: 1-2 years)
+3. Bartender (location: Mumbai, salary: 2-3 LPA, experience: 1-2 years)
+4. Housekeeper (location: Mumbai, salary: 2-3 LPA, experience: 1-2 years)
+5. Front Desk Clerk (location: Mumbai, salary: 2-3 LPA, experience: 1-2 years)
